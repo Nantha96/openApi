@@ -1,0 +1,3 @@
+0000  - Success
+0001  - Internal Server
+0002  - Database is Down
